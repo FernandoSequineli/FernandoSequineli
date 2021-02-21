@@ -14,6 +14,12 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 - 💬 Ask me about anything, I am happy to help
 - 📙 Check out my [Resume](https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/FernandoSequineli%20.pdf)
 
+<br/><br/>
+
+### ⚙️ Some Tool and Tech I use
+<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
+
 
 <!--
 **FernandoSequineli/FernandoSequineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
