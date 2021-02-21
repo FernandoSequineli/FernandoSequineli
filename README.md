@@ -12,7 +12,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
   - NodeJs
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on **Web Development**
 - 💬 Ask me about anything, I am happy to help
-📙 Check out my 
+- 📙 Check out my [Resume](https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/FernandoSequineli%20.pdf)
 
 
 <!--
