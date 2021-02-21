@@ -1,7 +1,8 @@
-# Hello, Folks! <img src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/wave.gif" width="30px">
+# Hello Folks, I'm Fernando <img src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/wave.gif" width="30px">
 
 
-
+### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+I'm Undergraduate Student at @NCI.  [@NCI National College Of Ireland](https://www.ncirl.ie/) ** pursuing Computing. I'm a Tech Enthusiast 💻 😃 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.<br/><br/>
 
 <!--
 **FernandoSequineli/FernandoSequineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
