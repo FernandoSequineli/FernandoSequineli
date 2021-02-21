@@ -1,7 +1,6 @@
 [![Header](https://github.com/FernandoSequineli/FernandoSequineli/blob/main/banner.png)
 
-### Hi there 👋
-
+#Hello, Folks!<img src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/wave.gif" width="30px">
 <!--
 **FernandoSequineli/FernandoSequineli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
