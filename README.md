@@ -1,6 +1,6 @@
 ## Hello Folks, I'm Fernando <img src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wave.gif" width="30px">
+<br/>
 
-#### 📬 Find me at
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/FernandoSequineli/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15262418/fernando-sequineli)](https://stackoverflow.com/users/15262418/fernando-sequineli)
@@ -37,7 +37,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
-<code><img height="30" src=" "></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 
 <br/><br/>
 
