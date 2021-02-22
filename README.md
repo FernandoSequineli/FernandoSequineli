@@ -5,6 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15262418/fernando-sequineli)](https://stackoverflow.com/users/15262418/fernando-sequineli)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sequineli.fernando@gmail.com)](mailto:sequineli.fernando@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=FernandoSequineli)
 
 
 
@@ -38,8 +39,8 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src=" "></code>
 
+<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)]
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=FernandoSequineli)
