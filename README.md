@@ -41,6 +41,6 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)
 
 
