@@ -30,8 +30,8 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src=" "></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/FernandoSequineli/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)]
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=FernandoSequineli)
