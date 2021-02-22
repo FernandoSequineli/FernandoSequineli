@@ -25,8 +25,9 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg "></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/xampp.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/nodejs.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+<code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src=" "></code>
 
 
