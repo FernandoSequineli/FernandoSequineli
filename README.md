@@ -26,7 +26,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 
 <br/><br/>
 
-### ⚙️ Some Tool and Tech I use
+### ⚙️ Some Tools and Tech I use
 <code><img height="30" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
