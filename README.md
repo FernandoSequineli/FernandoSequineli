@@ -42,10 +42,10 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 
 <br/><br/>
 
-## If you're still reading, why not follow me ?? Let's Connect !!
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)
 
 <br/><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)
+## If you're still reading, why not follow me ?? Let's Connect !!
 
 
