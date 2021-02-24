@@ -21,6 +21,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
   - NodeJs
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on **Web Development**
 - 💬 Ask me about anything, I am happy to help
+- 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 📙 Check out my [Resume](https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/FernandoSequineli%20.pdf)
 
 <br/><br/>
@@ -38,6 +39,10 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+
+<br/><br/>
+
+# If you're still reading, why not follow me ?? Let's Connect !!
 
 <br/><br/>
 
