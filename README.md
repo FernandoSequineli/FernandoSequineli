@@ -14,14 +14,13 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 
 ## ⚡️ A Few Quick Facts
 
-- 🌱 I’m currently learning:
-  - Java
-  - PHP
-  - JavaScript
-  - NodeJs
+- 🌱 I’m currently learning PHP, Java, NodeJS (in school)
+- ⚡️Fast learner  
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on **Web Development**
+- 🤟 I love programming, learning and math
 - 💬 Ask me about anything, I am happy to help
 - 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
+- 🌐 View my portfolio: [Fernando Sequineli](https://fernandosequineli.github.io/portfolio/)
 - 📙 Check out my [Resume](https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/FernandoSequineli%20.pdf)
 
 <br/><br/>
