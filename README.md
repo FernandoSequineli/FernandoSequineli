@@ -45,6 +45,6 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 
 <br/><br/>
 
-# If you're still reading, why not follow me ?? Let's Connect !! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
+### If you're still reading, why not follow me ?? Let's Connect !! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
 
 
