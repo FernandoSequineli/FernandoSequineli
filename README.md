@@ -13,7 +13,7 @@
 I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl.ie/)** pursuing Computing. **I'm a Tech Enthusiast** 💻 🤓  passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
-
+- 🔭 I’m currently in my 3rd year pursuing a bacherlor's of technology in Computing Engeneering.
 - 🌱 I’m currently learning PHP, Java, NodeJS (in school)
 - ⚡️Fast learner  
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on **Web Development**
