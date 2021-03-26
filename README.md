@@ -19,6 +19,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 - 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 🌐 View my portfolio: [Fernando Sequineli](https://fernandosequineli.github.io/portfolio/)
 - 📙 Check out my [Resume](https://github.com/FernandoSequineli/portfolio/blob/master/assets/Fernando%20Sequineli%20-%20CV.pdf)
+- 📙 Check out my [Resume](Fernando Sequineli - CV.pdf)
 - 💬 Ask me about anything, I am happy to help!
 
 <br/><br/>
