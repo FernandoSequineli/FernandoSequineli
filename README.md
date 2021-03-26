@@ -3,7 +3,7 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/FernandoSequineli/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15262418/fernando-sequineli)](https://stackoverflow.com/users/15262418/fernando-sequineli)
+<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15262418/fernando-sequineli)](https://stackoverflow.com/users/15262418/fernando-sequineli) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sequineli.fernando@gmail.com)](mailto:sequineli.fernando@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=FernandoSequineli)
 
