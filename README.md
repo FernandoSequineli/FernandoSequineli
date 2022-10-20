@@ -31,6 +31,15 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/git.png"></code>
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/tailwindcss.svg"></code>
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/react.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/javascript.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/css.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/html.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/bootstrap.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/node.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/restapi.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wordpress.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/mongodb.png"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/scrum.png"></code>
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
