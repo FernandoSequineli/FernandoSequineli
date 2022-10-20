@@ -39,6 +39,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<br/>
 This is not a full list of my skills. I'm also open to learn more frontend skills!
 <br/><br/>
 
