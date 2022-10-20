@@ -28,8 +28,10 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 
 ### ⚙️ These are the technologies I've worked with
 
-<code><img height="30" src="https://cdn.svgporn.com/logos/java.svg"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/git.png"></code>
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/tailwindcss.svg"></code>
+<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/react.png"></code>
+
 <code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
