@@ -40,6 +40,11 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wordpress.png"></code>
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/mongodb.png"></code>
 <code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/scrum.png"></code>
+<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
+<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
+
 
 <code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
@@ -49,8 +54,6 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 <code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/xampp.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <br/><br/>
 This is not a full list of my skills. I'm also open to learn more frontend skills!
