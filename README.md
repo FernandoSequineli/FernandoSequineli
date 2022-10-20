@@ -28,33 +28,22 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 
 ### ⚙️ These are the technologies I've worked with
 
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/git.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/tailwindcss.svg"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/react.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/javascript.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/css.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/html.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/bootstrap.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/node.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/restapi.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wordpress.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/mongodb.png"></code>
-<code><img height="30" width="30" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/scrum.png"></code>
-<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
-<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
-<code><img height="30" width="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-
-
-<code><img height="30" src="https://cdn.svgporn.com/logos/javascript.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/html-5.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/css-3.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/php.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/bootstrap.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/xampp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/git.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/tailwindcss.svg"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/react.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/javascript.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/css.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/html.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/bootstrap.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/node.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/restapi.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/wordpress.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/mongodb.png"></code>
+<code><img height="33" width="33" src="https://github.com/FernandoSequineli/FernandoSequineli/blob/main/assets/scrum.png"></code>
+<code><img height="33" width="33" src="https://cdn.svgporn.com/logos/mysql.svg"></code>
+<code><img height="33" width="33" src="https://cdn.svgporn.com/logos/php.svg"></code>
+<code><img height="33" width="33" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
+<code><img height="33" width="33" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <br/><br/>
 This is not a full list of my skills. I'm also open to learn more frontend skills!
 <br/><br/>
