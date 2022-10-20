@@ -45,7 +45,7 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 <code><img height="38" width="38" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="38" width="38" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <br/><br/>
-This is not a full list of my skills. I'm also open to learn more frontend skills!
+This is not a full list of my skills. I'm also open to learn more!
 <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)
@@ -53,4 +53,4 @@ This is not a full list of my skills. I'm also open to learn more frontend skill
 
 <br/><br/>
 
-### If you're still reading, why not follow me ?? Let's Connect !! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
+## If you're still reading, why not follow me ?? Let's Connect !! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernando-sequineli/)](https://www.linkedin.com/in/fernando-sequineli/)
