@@ -18,7 +18,6 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 - ⚡️Fast learner
 - 🤟 I adore programming, learning and numbers.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I enjoy working on **Web Development**
-- 🤟 I love programming, learning and math
 - 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 🌐 View my portfolio: [Fernando Sequineli](https://fernandosequineli.github.io/portfolio/)
 - 📙 Check out my [Resume](https://github.com/FernandoSequineli/portfolio/blob/main/public/resume.pdf)
@@ -40,11 +39,11 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-
+This is not a full list of my skills. I'm also open to learn more frontend skills!
 <br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSequineli&layout=compact)
-This is not a full list of my skills. I'm also open to learn more frontend skills!
+
 
 <br/><br/>
 
