@@ -7,7 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sequineli.fernando@gmail.com)](mailto:sequineli.fernando@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=FernandoSequineli)
 
-<!-- [![Stackoverflow Badge](https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/15262418/fernando-sequineli)](https://stackoverflow.com/users/15262418/fernando-sequineli) -->
 
 ### A little about me. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
