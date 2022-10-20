@@ -8,9 +8,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=FernandoSequineli)
 
 
-### A little about me. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### A little about me. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl.ie/)** pursuing Computing. **I'm a Tech Enthusiast** 💻 🤓 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.<br/><br/>
+I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** 
+ **I'm a Tech Enthusiast** 💻 🤓 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -39,7 +40,7 @@ I'm Undergraduate Student **[@NCI National College Of Ireland](https://www.ncirl
 <code><img height="30" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/terminal.svg"></code>
 <code><img height="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
-<br/>
+<br/><br/>
 This is not a full list of my skills. I'm also open to learn more frontend skills!
 <br/><br/>
 
