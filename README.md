@@ -10,7 +10,7 @@
 
 ### A little about me. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-Hello! My name is Fernando and I am a web developer with a strong focus on user experience. I have a BSc in Computing from the National College of Ireland and a passion for technology. With 3 years of experience in programming and a constant drive to learn new technologies, I specialize in front-end development.<br/><br/>
+My name is Fernando and I am a web developer with a strong focus on user experience. I have a BSc in Computing from the National College of Ireland and a passion for technology. With 3 years of experience in programming and a constant drive to learn new technologies, I specialize in front-end development.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
