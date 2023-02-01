@@ -21,7 +21,7 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I enjoy working on **Web Development**
 - 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 🌐 View my portfolio: [Fernando Sequineli](https://fernandosequineli.github.io/portfolio/)
-- 📙 Check out my [Resume](https://github.com/FernandoSequineli/portfolio/blob/main/public/resume.pdf)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/13LhdVzVpkTOOFLP357EYdlF5uIDg-qyk/view)
 - 💬 Ask me about anything, I am happy to help!
 
 <br/><br/>
