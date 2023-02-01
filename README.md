@@ -10,8 +10,7 @@
 
 ### A little about me. <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
 
-I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)** 
- **I'm a Tech Enthusiast** 💻 🤓 passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose.<br/><br/>
+Hello! My name is Fernando and I am a web developer with a strong focus on user experience. I have a BSc in Computing from the National College of Ireland and a passion for technology. With 3 years of experience in programming and a constant drive to learn new technologies, I specialize in front-end development.<br/><br/>
 
 ## ⚡️ A Few Quick Facts
 
@@ -21,7 +20,7 @@ I'm BS in Computing **[@NCI National College Of Ireland](https://www.ncirl.ie/)*
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I enjoy working on **Web Development**
 - 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 🌐 View my portfolio: [Fernando Sequineli](https://fernandosequineli.github.io/portfolio/)
-- 📙 Check out my [Resume](https://drive.google.com/file/d/13LhdVzVpkTOOFLP357EYdlF5uIDg-qyk/view){:target="_blank"}
+- 📙 Check out my [Resume](https://drive.google.com/file/d/13LhdVzVpkTOOFLP357EYdlF5uIDg-qyk/view)
 - 💬 Ask me about anything, I am happy to help!
 
 <br/><br/>
