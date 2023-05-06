@@ -20,7 +20,7 @@ My name is Fernando and I am a web developer with a strong focus on user experie
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> I enjoy working on **Web Development**
 - 🧩 You know you're a programmer when you spend a day to find the problem, and then fix it with one line of code.
 - 🌐 View my portfolio: [Fernando Sequineli](https://fernandosequineli.github.io/portfolio/)
-- 📙 Check out my [Resume](https://drive.google.com/file/d/13LhdVzVpkTOOFLP357EYdlF5uIDg-qyk/view)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/15yhrxlQcV5NfJpjwVFYBVnlHaAss4oGj/view)
 - 💬 Ask me about anything, I am happy to help!
 
 <br/><br/>
